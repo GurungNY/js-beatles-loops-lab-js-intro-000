@@ -20,7 +20,6 @@ function johnLennonFacts(facts) {
   return shoutedFacts
 }
 
-
 function iLoveTheBeatles(num) {
   const array = []
 
@@ -29,8 +28,8 @@ function iLoveTheBeatles(num) {
     num++
   } while (num < 15)
 
-    return array
-  }
+  return array
+}
 
   // function iLoveTheBeatles (number) {
   //   var array = []
