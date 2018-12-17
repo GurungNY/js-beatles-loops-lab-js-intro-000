@@ -2,7 +2,6 @@ function theBeatlesPlay(musicians, instruments) {
   const arr = []
 
    for (const i = 0; i < musicians.length; i++ ) {
-     if
       arr.push('${musicians[i]} plays ${instruments[i]}')
     }
 
