@@ -1,4 +1,9 @@
 // add solution here
+var musicians = {
+  "John Lennon", "Paul McCartney", "George Harrison" "Ringo Starr"
+}
+
+
 function theBeatlesPlay(musicians, instruments) {
   const arr = []
 
@@ -21,3 +26,15 @@ function johnLennonFacts(facts) {
 
   return newFacts
 }
+
+
+function iLoveTheBeatles(n) {
+  const arr = []
+  
+  
+
+}
+  return arr
+}
+  
+  
