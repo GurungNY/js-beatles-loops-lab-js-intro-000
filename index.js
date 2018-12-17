@@ -1,6 +1,9 @@
 // add solution here
 var musicians = {
-  "John Lennon", "Paul McCartney", "George Harrison" "Ringo Starr"
+  "John Lennon"
+  "Paul McCartney"
+  "George Harrison"
+  "Ringo Starr"
 }
 
 
@@ -30,11 +33,9 @@ function johnLennonFacts(facts) {
 
 function iLoveTheBeatles(n) {
   const arr = []
-  
-  
+
+
 
 }
   return arr
 }
-  
-  
